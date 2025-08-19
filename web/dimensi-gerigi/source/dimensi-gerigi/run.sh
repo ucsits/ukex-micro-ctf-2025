@@ -1,1 +1,1 @@
-php -S localhost:1337
+cd app && php -S localhost:1337
