@@ -1,0 +1,20 @@
+From: IT Administrator <admin@ucs.com>
+To: User <puj0@ucs.com>
+Subject: Important Update - Please Review
+Date: Wed, 20 Aug 2025 10:30:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="boundary123"
+
+--boundary123
+Content-Type: text/plain; charset="UTF-8"
+
+Dear Puj0,
+
+We have released a new security update. Please download and review the attached file.
+
+Regards,  
+IT Administrator
+
+--boundary123
+Content-Disposition: attachment; filename="update.ps1"
+--boundary123--
